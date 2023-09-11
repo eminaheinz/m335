@@ -958,6 +958,7 @@ C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net
 C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\lp\151\jl\files.cache
 C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\lp\153\jl\files.cache
 C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\lp\155\jl\files.cache
+C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\resizetizer\r\drawable\glutenfreivegan.png
 C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\android\assets\mscorlib.dll
 C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\android\assets\System.Collections.Concurrent.dll
 C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\android\assets\System.Data.Common.dll
@@ -971,4 +972,3 @@ C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net
 C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Extensions.dll
 C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Formatters.dll
 C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\android\assets\System.Xml.dll
-C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\resizetizer\r\drawable\glutenfreivegan.png
