@@ -16,10 +16,16 @@ public partial class NewsPage : ContentPage
 
             if (newsItems != null && newsItems.Count > 0)
             {
+                //Chat-Gpt Generated Code
                 var firstNewsItem = newsItems[0];
                 newsHeadlineLabel.Text = firstNewsItem.Headline;
                 newsContentLabel.Text = firstNewsItem.Content;
                 newsDateLabel.Text = firstNewsItem.Date;
+
+                var secondNewsItem = newsItems[1];
+                newsBurgerHeadlineLabel.Text = secondNewsItem.Headline;
+                newsBurgerContentLabel.Text = secondNewsItem.Content;
+                newsBugerDateLabel.Text = secondNewsItem.Date;
             }
         }, TaskScheduler.FromCurrentSynchronizationContext());
     }

@@ -16,6 +16,9 @@
             <Frame Margin="10" CornerRadius="10" HasShadow="True" BackgroundColor="White">
                 <StackLayout>
                     <Image Source="veggiburger.png" Aspect="AspectFill" HeightRequest="200" />
+                    <Label  x:Name="newsBurgerHeadlineLabel" FontSize="24" FontAttributes="Bold" Margin="10,0,10,0" />
+                    <Label  x:Name="newsBurgerContentLabel" Margin="10,0,10,0" />
+                    <Label  x:Name="newsBugerDateLabel" FontSize="12" Margin="10,10,10,0" TextColor="Gray" />
                 </StackLayout>
             </Frame>
         </StackLayout>
