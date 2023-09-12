@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MobileApp.Recipes.RecipePage"
-             Title="Recipes">
+             Title="Rezepte">
     <ScrollView>
         <VerticalStackLayout
             Spacing="25"
@@ -12,41 +12,31 @@
                 FontSize="Title"
                 HorizontalTextAlignment="Start"
                 Text="Glutenfrei und Vegetarische Rezepte"/>
-            <Button
-                x:Name="BurgerBtn"
-                FontSize="Large"
-                Text="Burger"
-                SemanticProperties.Hint="Show recipt for burger"
-                WidthRequest="200"
-                HeightRequest="100"
-                HorizontalOptions="Center"
-                BackgroundColor="ForestGreen"
-                    />
-            <Button
-                x:Name="PastaBtn"
-                FontSize="Large"
-                Text="Pasta"
-                SemanticProperties.Hint="Shows recipt for pasta"
-                WidthRequest="200"
-                HeightRequest="100"
-                HorizontalOptions="Center"
-                BackgroundColor="ForestGreen"
-                    />
-            <Button
-                x:Name="FajitaBtn"
-                FontSize="Large"
-                Text="Fajitas"
-                SemanticProperties.Hint="Show recipt for fajitas"
-                WidthRequest="200"
-                HeightRequest="100"
-                HorizontalOptions="Center"
-                BackgroundColor="ForestGreen"
-                   />
-            <ImageButton Source="burgergericht.png"
+
+            <Frame Margin="10" CornerRadius="10" HasShadow="True" BackgroundColor="White">
+                <ImageButton Source="fajitas.svg"
                     HorizontalOptions="Center"
                     VerticalOptions="Center" 
-                    WidthRequest="200"
-                    HeightRequest="100"/>
+                    WidthRequest="500"
+                    HeightRequest="250"
+                    Clicked="OnFajitasRecipButtonClicked"/>
+            </Frame>
+            <Frame Margin="10" CornerRadius="10" HasShadow="True" BackgroundColor="White">
+                <ImageButton Source="pasta.png"
+                        HorizontalOptions="Center"
+                        VerticalOptions="Center" 
+                        WidthRequest="500"
+                        HeightRequest="250"
+                        Clicked="OnPastaButtonClicked"/>
+            </Frame>
+            <Frame Margin="10" CornerRadius="10" HasShadow="True" BackgroundColor="White">
+                <ImageButton Source="burger.svg"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center" 
+                    WidthRequest="400"
+                    HeightRequest="200"
+                    Clicked="OnBurgerButtonClicked"/>
+            </Frame>
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>
