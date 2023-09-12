@@ -7,12 +7,6 @@
         <VerticalStackLayout
             Spacing="25"
             Padding="30,0">
-            <Label
-                x:Name="pageTitleView"
-                FontSize="Title"
-                HorizontalTextAlignment="Start"
-                Text="Glutenfrei und Vegetarische Rezepte"/>
-
             <Frame Margin="10" CornerRadius="10" HasShadow="True" BackgroundColor="White">
                 <ImageButton Source="fajitas.svg"
                     HorizontalOptions="Center"
