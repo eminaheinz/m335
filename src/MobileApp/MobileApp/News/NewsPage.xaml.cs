@@ -48,6 +48,4 @@ public partial class NewsPage : ContentPage
             return null;
         }
     }
-
-
 }

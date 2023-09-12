@@ -3,10 +3,24 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MobileApp.Facts.FactsPage"
              Title="FactsPage">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+    <ScrollView>
+        <StackLayout>
+            <Frame Margin="10" CornerRadius="10" HasShadow="True" BackgroundColor="White">
+                <StackLayout>
+                    <Image Source="psyche.png" Aspect="AspectFill" HeightRequest="200" />
+                    <Label x:Name="fact1HeadlineLabel" FontSize="24" FontAttributes="Bold" Margin="10,0,10,0" />
+                    <Label x:Name="fact1ContentLabel" Margin="10,0,10,0" />
+                    <Label x:Name="fact1DateLabel" FontSize="12" Margin="10,10,10,0" TextColor="Gray" />
+                </StackLayout>
+            </Frame>
+            <Frame Margin="10" CornerRadius="10" HasShadow="True" BackgroundColor="White">
+                <StackLayout>
+                    <Image Source="kuechengeraet.png" Aspect="AspectFill" HeightRequest="200" />
+                    <Label  x:Name="fact2HeadlineLabel" FontSize="24" FontAttributes="Bold" Margin="10,0,10,0" />
+                    <Label  x:Name="fact2ContentLabel" Margin="10,0,10,0" />
+                    <Label  x:Name="fact2DateLabel" FontSize="12" Margin="10,10,10,0" TextColor="Gray" />
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ScrollView>
 </ContentPage>
