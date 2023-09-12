@@ -3,17 +3,50 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MobileApp.Recipes.RecipePage"
              Title="Recipes">
-    <VerticalStackLayout
-        Spacing="25"
-        Padding="30,0"
-        VerticalOptions="Center">
-        
-        <Label
-            x:Name="pageTitleView"
-            HorizontalTextAlignment="Center"
-            Text="Glutenfrei und Vegetarische Rezepte"/>
-        <ImageButton Source="./image/test.png"
-            HorizontalOptions="Center"
-            VerticalOptions="Center"/>
-    </VerticalStackLayout>
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0">
+            <Label
+                x:Name="pageTitleView"
+                FontSize="Title"
+                HorizontalTextAlignment="Start"
+                Text="Glutenfrei und Vegetarische Rezepte"/>
+            <Button
+                x:Name="BurgerBtn"
+                FontSize="Large"
+                Text="Burger"
+                SemanticProperties.Hint="Show recipt for burger"
+                WidthRequest="200"
+                HeightRequest="100"
+                HorizontalOptions="Center"
+                BackgroundColor="ForestGreen"
+                    />
+            <Button
+                x:Name="PastaBtn"
+                FontSize="Large"
+                Text="Pasta"
+                SemanticProperties.Hint="Shows recipt for pasta"
+                WidthRequest="200"
+                HeightRequest="100"
+                HorizontalOptions="Center"
+                BackgroundColor="ForestGreen"
+                    />
+            <Button
+                x:Name="FajitaBtn"
+                FontSize="Large"
+                Text="Fajitas"
+                SemanticProperties.Hint="Show recipt for fajitas"
+                WidthRequest="200"
+                HeightRequest="100"
+                HorizontalOptions="Center"
+                BackgroundColor="ForestGreen"
+                   />
+            <ImageButton Source="burgergericht.png"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center" 
+                    WidthRequest="200"
+                    HeightRequest="100"/>
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>

@@ -322,3 +322,10 @@ C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net
 C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\burgergericht.scale-100.jpeg
+C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\burgergericht.scale-100.png
+C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\glutenfreivegan.scale-100.png
+C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\lachs.scale-100.jpg
+C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\lachs.scale-100.png
+C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\veggiburger.scale-100.jpg
+C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\veggiburger.scale-100.png

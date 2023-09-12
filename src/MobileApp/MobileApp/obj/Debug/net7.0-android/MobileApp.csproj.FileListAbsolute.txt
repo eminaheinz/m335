@@ -972,3 +972,7 @@ C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net
 C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Extensions.dll
 C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Formatters.dll
 C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\android\assets\System.Xml.dll
+C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\resizetizer\r\drawable\lachs.png
+C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\resizetizer\r\drawable\lachs.jpg
+C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\resizetizer\r\drawable\burgergericht.png
+C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-android\resizetizer\r\drawable\veggiburger.png

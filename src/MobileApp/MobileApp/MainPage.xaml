@@ -11,6 +11,7 @@
 
             <Button
                 x:Name="RezeptBtn"
+                FontSize="Large"
                 Text="Rezepte"
                 SemanticProperties.Hint="Shows all recepies"
                 WidthRequest="200"
@@ -20,6 +21,7 @@
                 Clicked="OnRecipButtonClicked"/>
             <Button
                 x:Name="NewsBtn"
+                FontSize="Large"
                 Text="News"
                 SemanticProperties.Hint="Shows all news"
                 WidthRequest="200"
@@ -29,6 +31,7 @@
                 Clicked="OnNewsButtonClicked"/>
             <Button
                 x:Name="RestuarantBtn"
+                FontSize="Large"
                 Text="Restaurant Empfehlungen"
                 SemanticProperties.Hint="Shows all Restaurants"
                 WidthRequest="200"
@@ -38,6 +41,7 @@
                 Clicked="OnRestaurantButtonClicked"/>
             <Button
                 x:Name="FaktenBtn"
+                FontSize="Large"
                 Text="Fakten"
                 SemanticProperties.Hint="Shows all facts"
                 WidthRequest="200"
