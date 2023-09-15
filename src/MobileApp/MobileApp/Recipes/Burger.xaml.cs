@@ -16,8 +16,6 @@ public partial class Burger : ContentPage
                 //Chat-Gpt Generated Code
                 var recipeItems = recipeItem[0];
                 ingredientsLabel.Text = string.Join("\n", recipeItems.Ingredients);
-
-                // Update the instructions Label
                 instructionsLabel.Text = string.Join("\n", recipeItems.Instruction);
                 headline.Text = recipeItems.Headline;
                 duration.Text = recipeItems.Duration;

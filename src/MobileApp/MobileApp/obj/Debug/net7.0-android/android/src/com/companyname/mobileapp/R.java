@@ -10827,6 +10827,7 @@ public final class R {
     public static final int tooltip_frame_dark=0x7f0700dc;
     public static final int tooltip_frame_light=0x7f0700dd;
     public static final int veggiburger=0x7f0700de;
+    public static final int zolliveggi=0x7f0700df;
   }
   public static final class id {
     public static final int ALT=0x7f080000;
@@ -11562,6 +11563,10 @@ public final class R {
     public static final int appicon_background=0x7f0d0001;
     public static final int appicon_foreground=0x7f0d0002;
     public static final int appicon_round=0x7f0d0003;
+    public static final int zolliveggi=0x7f0d0004;
+    public static final int zolliveggi_background=0x7f0d0005;
+    public static final int zolliveggi_foreground=0x7f0d0006;
+    public static final int zolliveggi_round=0x7f0d0007;
   }
   public static final class plurals {
     public static final int mtrl_badge_content_description=0x7f0e0000;

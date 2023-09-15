@@ -7,7 +7,7 @@
     Shell.FlyoutBehavior="Disabled">
 
     <ShellContent
-        Title="Home"
+        Title="Zöli-Veggi :)"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 

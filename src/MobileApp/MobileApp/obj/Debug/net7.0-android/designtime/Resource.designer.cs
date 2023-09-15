@@ -8304,6 +8304,9 @@ namespace MobileApp
 			// aapt resource value: 0x7F0700DE
 			public const int veggiburger = 2131165406;
 			
+			// aapt resource value: 0x7F0700DF
+			public const int zolliveggi = 2131165407;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -10543,6 +10546,18 @@ namespace MobileApp
 			
 			// aapt resource value: 0x7F0D0003
 			public const int appicon_round = 2131558403;
+			
+			// aapt resource value: 0x7F0D0004
+			public const int zolliveggi = 2131558404;
+			
+			// aapt resource value: 0x7F0D0005
+			public const int zolliveggi_background = 2131558405;
+			
+			// aapt resource value: 0x7F0D0006
+			public const int zolliveggi_foreground = 2131558406;
+			
+			// aapt resource value: 0x7F0D0007
+			public const int zolliveggi_round = 2131558407;
 			
 			static Mipmap()
 			{

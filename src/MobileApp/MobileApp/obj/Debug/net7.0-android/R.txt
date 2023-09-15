@@ -2711,6 +2711,7 @@ int drawable test_level_drawable 0x7f0700db
 int drawable tooltip_frame_dark 0x7f0700dc
 int drawable tooltip_frame_light 0x7f0700dd
 int drawable veggiburger 0x7f0700de
+int drawable zolliveggi 0x7f0700df
 int id ALT 0x7f080000
 int id BOTTOM_END 0x7f080001
 int id BOTTOM_START 0x7f080002
@@ -3436,6 +3437,10 @@ int mipmap appicon 0x7f0d0000
 int mipmap appicon_background 0x7f0d0001
 int mipmap appicon_foreground 0x7f0d0002
 int mipmap appicon_round 0x7f0d0003
+int mipmap zolliveggi 0x7f0d0004
+int mipmap zolliveggi_background 0x7f0d0005
+int mipmap zolliveggi_foreground 0x7f0d0006
+int mipmap zolliveggi_round 0x7f0d0007
 int plurals mtrl_badge_content_description 0x7f0e0000
 int string abc_action_bar_home_description 0x7f0f0000
 int string abc_action_bar_up_description 0x7f0f0001
