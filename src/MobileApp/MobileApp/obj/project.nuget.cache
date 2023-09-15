@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7aeV6gFW/XxuEYxDB8kf9T4kEodD3t1s6jtk7dMqaluyrjd8JKE+DDbqJFvW17CRt0wUexEWLEMoOHEGl9EVHA==",
+  "dgSpecHash": "KcBnuXITzyf7BfArm75vjR+YhIxtjUj1BkH33HjvwcFb12bWQvWjIE1UmoIvxLnQjOZ1q2K1+25x7wN8vFSWmg==",
   "success": true,
   "projectFilePath": "C:\\Users\\emina\\OneDrive\\Dokumente\\App\\m335\\src\\MobileApp\\MobileApp\\MobileApp.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\emina\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\7.0.92\\microsoft.maui.graphics.win2d.winui.desktop.7.0.92.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
     "C:\\Users\\emina\\.nuget\\packages\\microsoft.windowsappsdk\\1.2.221209.1\\microsoft.windowsappsdk.1.2.221209.1.nupkg.sha512",
+    "C:\\Users\\emina\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\emina\\.nuget\\packages\\xamarin.android.glide\\4.13.2.2\\xamarin.android.glide.4.13.2.2.nupkg.sha512",
     "C:\\Users\\emina\\.nuget\\packages\\xamarin.android.glide.annotations\\4.13.2.2\\xamarin.android.glide.annotations.4.13.2.2.nupkg.sha512",
     "C:\\Users\\emina\\.nuget\\packages\\xamarin.android.glide.disklrucache\\4.13.2.2\\xamarin.android.glide.disklrucache.4.13.2.2.nupkg.sha512",

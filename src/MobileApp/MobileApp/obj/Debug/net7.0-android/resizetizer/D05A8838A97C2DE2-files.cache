@@ -1,9 +1,11 @@
 ﻿obj\Debug\net7.0-android\resizetizer\r\drawable\burgergericht.png
+obj\Debug\net7.0-android\resizetizer\r\drawable\burgermenu.png
 obj\Debug\net7.0-android\resizetizer\r\drawable\glutenfreivegan.png
 obj\Debug\net7.0-android\resizetizer\r\drawable\kuechengeraet.png
 obj\Debug\net7.0-android\resizetizer\r\drawable\lachs.jpg
 obj\Debug\net7.0-android\resizetizer\r\drawable\lachs.png
 obj\Debug\net7.0-android\resizetizer\r\drawable\pasta.png
+obj\Debug\net7.0-android\resizetizer\r\drawable\pastamenu.png
 obj\Debug\net7.0-android\resizetizer\r\drawable\psyche.png
 obj\Debug\net7.0-android\resizetizer\r\drawable\veggiburger.png
 obj\Debug\net7.0-android\resizetizer\r\drawable-hdpi\burger.png

@@ -18,10 +18,4 @@ public partial class RecipePage : ContentPage
 
         await Navigation.PushAsync(newsPage);
     }
-    private async void OnFajitasRecipButtonClicked(object sender, EventArgs e)
-    {
-        var newsPage = new Fajitas();
-
-        await Navigation.PushAsync(newsPage);
-    }
 }

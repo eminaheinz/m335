@@ -46,12 +46,6 @@ build_metadata.AdditionalFiles.ManifestResourceName = MobileApp.Recipes.Burger.x
 build_metadata.AdditionalFiles.TargetPath = Recipes\Burger.xaml
 build_metadata.AdditionalFiles.RelativePath = Recipes\Burger.xaml
 
-[C:/Users/emina/OneDrive/Dokumente/App/m335/src/MobileApp/MobileApp/Recipes/Fajitas.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MobileApp.Recipes.Fajitas.xaml
-build_metadata.AdditionalFiles.TargetPath = Recipes\Fajitas.xaml
-build_metadata.AdditionalFiles.RelativePath = Recipes\Fajitas.xaml
-
 [C:/Users/emina/OneDrive/Dokumente/App/m335/src/MobileApp/MobileApp/Recipes/Pasta.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MobileApp.Recipes.Pasta.xaml

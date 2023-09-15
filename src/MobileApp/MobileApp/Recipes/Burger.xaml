@@ -3,10 +3,18 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MobileApp.Recipes.Burger"
              Title="Burger">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+    <ScrollView>
+        <StackLayout Margin="20">
+            <Image Source="burgermenu.png" Aspect="AspectFill" HeightRequest="200" />
+            <Label x:Name="headline" FontSize="25" FontAttributes="Bold" Margin="10,0,10,0" />
+            <Label x:Name="numPeople" FontSize="25" Margin="10,0,10,0" />
+            <Label x:Name="duration" FontSize="25" Margin="10,0,10,0" />
+
+            <Label Text="Zutaten:" FontSize="22" FontAttributes="Bold" Margin="10,20,10,0" />
+            <Label x:Name="ingredientsLabel" FontSize="20" Margin="10,0,10,0" />
+
+            <Label Text="Anleitung:" FontSize="22" FontAttributes="Bold" Margin="10,20,10,0" />
+            <Label x:Name="instructionsLabel" FontSize="20" Margin="10,0,10,0" />
+        </StackLayout>
+    </ScrollView>
 </ContentPage>

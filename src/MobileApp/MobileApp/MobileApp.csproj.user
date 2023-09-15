@@ -29,9 +29,6 @@
     <MauiXaml Update="Recipes\Burger.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="Recipes\Fajitas.xaml">
-      <SubType>Designer</SubType>
-    </MauiXaml>
     <MauiXaml Update="Recipes\Pasta.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>

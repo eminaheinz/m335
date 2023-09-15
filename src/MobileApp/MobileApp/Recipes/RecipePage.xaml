@@ -8,14 +8,6 @@
             Spacing="25"
             Padding="30,0">
             <Frame Margin="10" CornerRadius="10" HasShadow="True" BackgroundColor="White">
-                <ImageButton Source="fajitas.svg"
-                    HorizontalOptions="Center"
-                    VerticalOptions="Center" 
-                    WidthRequest="500"
-                    HeightRequest="250"
-                    Clicked="OnFajitasRecipButtonClicked"/>
-            </Frame>
-            <Frame Margin="10" CornerRadius="10" HasShadow="True" BackgroundColor="White">
                 <ImageButton Source="pasta.png"
                         HorizontalOptions="Center"
                         VerticalOptions="Center" 

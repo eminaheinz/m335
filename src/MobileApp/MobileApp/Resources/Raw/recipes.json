@@ -1,0 +1,48 @@
+[
+  {
+    "Headline": "Veggi-Burger Menu",
+    "NumPeople": "2 Personen",
+    "Duration": "30min",
+    "Ingredients": [
+      "1 Zucchini",
+      "1 Peperonie",
+      "1 Zwiebel",
+      "1 Knoblauchzeh",
+      "1 Packung Pommes",
+      "2 Veggi-Burger (Coop Beyond Burger)",
+      "2EL Olivenoel",
+      "1TL Paprika",
+      "1TL Salz",
+      "1TL Pfeffer"
+    ],
+    "Instruction": [
+      "1. Pommes mit Salzwasser bepinseln und bei 180 Grad umluft in den Backofen legen.",
+      "2. Peperonie, Zuccheti, Zwiebeln und Knoblauch schneiden und zusammen mit Olivenoel und Gewüzen braten bis es leicht angefärbt ist.",
+      "4. Gemüse in  Teller geben und im Backofen warm halten. Achtung Oel und Flüssigkeit von Gemüse in der Pfane nicht wegschütten",
+      "5. Burgerpatties in Pfanne mit noch bestehendem Oel-/Gewürzerest anbraten",
+      "6. Alles servieren, gute Sossen wählen und geniessen :)"
+    ]
+  },
+  {
+    "Headline": "Knoblauch-Tomaten Pasta",
+    "NumPeople": "3 Personen",
+    "Duration": "40min",
+    "Ingredients": [
+      "1 Packung Cherry-Tomaten",
+      "2 Knoblauch",
+      "250ml Sahne",
+      "Olivenoel",
+      "1 Packung Parmesan",
+      "1 Packung Glutenfreie Spaghetti",
+      "1 Prise Salz",
+      "1TL Paprika"
+    ],
+    "Instruction": [
+      "1. Cherry-Tomaten und alle Knoblauchzehen in eine Glasform geben und mit genügend Olivenoel übergiesen. Bei 180 Grad Umluft im Backofen bis zu 30 minuten backen.",
+      "2. Nach 25min Spaghetti in kochendes Wasser geben mit einer Prise Salz.",
+      "4. Nach 30min Cherry-Tomaten und Knoblauch herausnehmen und samt dem Oel in Mixer geben.",
+      "5. Sosse nun zusammen mit Rahm, halber Packung Parmesan und Paprica gewürz in eine Bratpfanne geben und köcherl lassen.",
+      "6. Sosse nun mit Spaghetti vermengen, Parmesan drüber streuen ung geniessen :)"
+    ]
+  }
+]
