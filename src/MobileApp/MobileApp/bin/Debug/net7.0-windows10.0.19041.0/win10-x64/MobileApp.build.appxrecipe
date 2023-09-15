@@ -685,6 +685,9 @@
     <AppxPackagedFile Include="C:\Users\emina\.nuget\packages\microsoft.windowsappsdk\1.2.221209.1\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\.nuget\packages\newtonsoft.json\13.0.3\lib\net6.0\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\emina\.nuget\packages\microsoft.graphics.win2d\1.0.5.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
     </AppxPackagedFile>
@@ -703,6 +706,15 @@
     <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\Resources\Raw\facts.json">
+      <PackagePath>facts.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\Resources\Raw\news.json">
+      <PackagePath>news.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\Resources\Raw\recipes.json">
+      <PackagePath>recipes.json</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -717,6 +729,21 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\zolliveggiSplashScreen.scale-100.png">
+      <PackagePath>zolliveggiSplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\zolliveggiSplashScreen.scale-125.png">
+      <PackagePath>zolliveggiSplashScreen.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\zolliveggiSplashScreen.scale-150.png">
+      <PackagePath>zolliveggiSplashScreen.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\zolliveggiSplashScreen.scale-200.png">
+      <PackagePath>zolliveggiSplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\zolliveggiSplashScreen.scale-400.png">
+      <PackagePath>zolliveggiSplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -862,11 +889,32 @@
     <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\burger.scale-100.png">
+      <PackagePath>burger.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\burger.scale-125.png">
+      <PackagePath>burger.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\burger.scale-150.png">
+      <PackagePath>burger.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\burger.scale-200.png">
+      <PackagePath>burger.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\burger.scale-400.png">
+      <PackagePath>burger.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\burgergericht.scale-100.jpeg">
       <PackagePath>burgergericht.scale-100.jpeg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\burgergericht.scale-100.png">
       <PackagePath>burgergericht.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\burgermenu.scale-100.jpg">
+      <PackagePath>burgermenu.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\burgermenu.scale-100.png">
+      <PackagePath>burgermenu.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
@@ -883,8 +931,29 @@
     <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\fajitas.scale-100.png">
+      <PackagePath>fajitas.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\fajitas.scale-125.png">
+      <PackagePath>fajitas.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\fajitas.scale-150.png">
+      <PackagePath>fajitas.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\fajitas.scale-200.png">
+      <PackagePath>fajitas.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\fajitas.scale-400.png">
+      <PackagePath>fajitas.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\glutenfreivegan.scale-100.png">
       <PackagePath>glutenfreivegan.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\kuechengeraet.scale-100.jpg">
+      <PackagePath>kuechengeraet.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\kuechengeraet.scale-100.png">
+      <PackagePath>kuechengeraet.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\lachs.scale-100.jpg">
       <PackagePath>lachs.scale-100.jpg</PackagePath>
@@ -892,11 +961,167 @@
     <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\lachs.scale-100.png">
       <PackagePath>lachs.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\mekong.scale-100.png">
+      <PackagePath>mekong.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\noname.scale-100.png">
+      <PackagePath>noname.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pasta.scale-100.png">
+      <PackagePath>pasta.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pastamenu.scale-100.png">
+      <PackagePath>pastamenu.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\psyche.scale-100.png">
+      <PackagePath>psyche.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\veggiburger.scale-100.jpg">
       <PackagePath>veggiburger.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\veggiburger.scale-100.png">
       <PackagePath>veggiburger.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggi.ico">
+      <PackagePath>zolliveggi.ico</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggi.scale-100.png">
+      <PackagePath>zolliveggi.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLargeTile.scale-100.png">
+      <PackagePath>zolliveggiLargeTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLargeTile.scale-125.png">
+      <PackagePath>zolliveggiLargeTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLargeTile.scale-150.png">
+      <PackagePath>zolliveggiLargeTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLargeTile.scale-200.png">
+      <PackagePath>zolliveggiLargeTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLargeTile.scale-400.png">
+      <PackagePath>zolliveggiLargeTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>zolliveggiLogo.altform-lightunplated_targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>zolliveggiLogo.altform-lightunplated_targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>zolliveggiLogo.altform-lightunplated_targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>zolliveggiLogo.altform-lightunplated_targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>zolliveggiLogo.altform-lightunplated_targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.altform-unplated_targetsize-16.png">
+      <PackagePath>zolliveggiLogo.altform-unplated_targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.altform-unplated_targetsize-24.png">
+      <PackagePath>zolliveggiLogo.altform-unplated_targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.altform-unplated_targetsize-256.png">
+      <PackagePath>zolliveggiLogo.altform-unplated_targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.altform-unplated_targetsize-32.png">
+      <PackagePath>zolliveggiLogo.altform-unplated_targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.altform-unplated_targetsize-48.png">
+      <PackagePath>zolliveggiLogo.altform-unplated_targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.scale-100.png">
+      <PackagePath>zolliveggiLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.scale-125.png">
+      <PackagePath>zolliveggiLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.scale-150.png">
+      <PackagePath>zolliveggiLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.scale-200.png">
+      <PackagePath>zolliveggiLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.scale-400.png">
+      <PackagePath>zolliveggiLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.targetsize-16.png">
+      <PackagePath>zolliveggiLogo.targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.targetsize-24.png">
+      <PackagePath>zolliveggiLogo.targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.targetsize-256.png">
+      <PackagePath>zolliveggiLogo.targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.targetsize-32.png">
+      <PackagePath>zolliveggiLogo.targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiLogo.targetsize-48.png">
+      <PackagePath>zolliveggiLogo.targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiMediumTile.scale-100.png">
+      <PackagePath>zolliveggiMediumTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiMediumTile.scale-125.png">
+      <PackagePath>zolliveggiMediumTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiMediumTile.scale-150.png">
+      <PackagePath>zolliveggiMediumTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiMediumTile.scale-200.png">
+      <PackagePath>zolliveggiMediumTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiMediumTile.scale-400.png">
+      <PackagePath>zolliveggiMediumTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiSmallTile.scale-100.png">
+      <PackagePath>zolliveggiSmallTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiSmallTile.scale-125.png">
+      <PackagePath>zolliveggiSmallTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiSmallTile.scale-150.png">
+      <PackagePath>zolliveggiSmallTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiSmallTile.scale-200.png">
+      <PackagePath>zolliveggiSmallTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiSmallTile.scale-400.png">
+      <PackagePath>zolliveggiSmallTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiStoreLogo.scale-100.png">
+      <PackagePath>zolliveggiStoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiStoreLogo.scale-125.png">
+      <PackagePath>zolliveggiStoreLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiStoreLogo.scale-150.png">
+      <PackagePath>zolliveggiStoreLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiStoreLogo.scale-200.png">
+      <PackagePath>zolliveggiStoreLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiStoreLogo.scale-400.png">
+      <PackagePath>zolliveggiStoreLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiWideTile.scale-100.png">
+      <PackagePath>zolliveggiWideTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiWideTile.scale-125.png">
+      <PackagePath>zolliveggiWideTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiWideTile.scale-150.png">
+      <PackagePath>zolliveggiWideTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiWideTile.scale-200.png">
+      <PackagePath>zolliveggiWideTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\emina\OneDrive\Dokumente\App\m335\src\MobileApp\MobileApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\zolliveggiWideTile.scale-400.png">
+      <PackagePath>zolliveggiWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
