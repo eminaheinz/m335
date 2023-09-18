@@ -2,6 +2,7 @@ using System;
 using System.IO;
 using System.Text.Json;
 using Microsoft.Maui.Controls;
+using MobileApp.Facts;
 
 namespace MobileApp.News;
 
@@ -10,7 +11,8 @@ public partial class NewsPage : ContentPage
     public NewsPage()
     {
         InitializeComponent();
-        LoadMauiAsset().ContinueWith((task) =>
+        var jsonData = new JsonData<NewsItem>();
+        jsonData.LoadMauiAsset("news.json").ContinueWith((task) =>
         {
             var newsItems = task.Result;
 
@@ -28,24 +30,5 @@ public partial class NewsPage : ContentPage
                 newsBugerDateLabel.Text = secondNewsItem.Date;
             }
         }, TaskScheduler.FromCurrentSynchronizationContext());
-    }
-    async Task<List<NewsItem>> LoadMauiAsset()
-    {
-        try
-        {
-            using var stream = await FileSystem.OpenAppPackageFileAsync("news.json");
-            using var reader = new StreamReader(stream);
-    
-            var content = await reader.ReadToEndAsync();
-            var newsItems = JsonSerializer.Deserialize<List<NewsItem>>(content);
-
-            
-            return newsItems;
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine(ex.Message);
-            return null;
-        }
     }
 }

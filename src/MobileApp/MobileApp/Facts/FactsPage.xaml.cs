@@ -8,7 +8,8 @@ public partial class FactsPage : ContentPage
 	public FactsPage()
 	{
         InitializeComponent();
-        LoadMauiAsset().ContinueWith((task) =>
+        var jsonData = new JsonData<FactsItem>();
+        jsonData.LoadMauiAsset("facts.json").ContinueWith((task) =>
         {
             var newsItems = task.Result;
 
@@ -26,24 +27,5 @@ public partial class FactsPage : ContentPage
                 fact2DateLabel.Text = secondNewsItem.Date;
             }
         }, TaskScheduler.FromCurrentSynchronizationContext());
-    }
-    async Task<List<FactsItem>> LoadMauiAsset()
-    {
-        try
-        {
-            using var stream = await FileSystem.OpenAppPackageFileAsync("facts.json");
-            using var reader = new StreamReader(stream);
-
-            var content = await reader.ReadToEndAsync();
-            var factsItems = JsonSerializer.Deserialize<List<FactsItem>>(content);
-
-
-            return factsItems;
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine(ex.Message);
-            return null;
-        }
     }
 }

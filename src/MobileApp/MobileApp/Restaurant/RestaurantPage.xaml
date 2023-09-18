@@ -8,15 +8,19 @@
             <Frame Margin="10" CornerRadius="10" HasShadow="True" BackgroundColor="White">
                 <StackLayout>
                     <Image Source="noname.png" Aspect="AspectFill" HeightRequest="200" />
-                    <Label Text="Super leckers Thailändisches essen" Margin="10,0,10,0" />
-                    <Button Text="Webseite" Clicked="OnNoNameButtonClicked"/>
+                    <Label x:Name="headlineLabel1" FontSize="18" FontAttributes="Bold" Margin="10,0,10,0" />
+                    <Label x:Name="address1" FontSize="12" Margin="10,10,10,0" TextColor="Gray"/>
+                    <Label x:Name="telNum1" FontSize="12" Margin="10,10,10,0" TextColor="Gray" />
+                    <Label x:Name="website1" FontSize="12" Margin="10,10,10,0" TextColor="Gray" />
                 </StackLayout>
             </Frame>
             <Frame Margin="10" CornerRadius="10" HasShadow="True" BackgroundColor="White">
                 <StackLayout>
                     <Image Source="mekong.png" Aspect="AspectFill" HeightRequest="200" />
-                    <Label  Text="Super leckers Thailändisches essen" Margin="10,0,10,0" />
-                    <Button Text="Webseite" Clicked="OnMekongButtonClicked"/>
+                    <Label x:Name="headlineLabel2" FontSize="18" FontAttributes="Bold" Margin="10,0,10,0" />
+                    <Label x:Name="address2" FontSize="12" Margin="10,10,10,0" TextColor="Gray" />
+                    <Label x:Name="telNum2" FontSize="12" Margin="10,10,10,0" TextColor="Gray" />
+                    <Label x:Name="website2" FontSize="12" Margin="10,10,10,0" TextColor="Gray" />
                 </StackLayout>
             </Frame>
         </StackLayout>
