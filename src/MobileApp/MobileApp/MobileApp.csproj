@@ -12,7 +12,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 
 		<!-- Display name -->
-		<ApplicationTitle>MobileApp</ApplicationTitle>
+		<ApplicationTitle>Zölli-Veggi</ApplicationTitle>
 
 		<!-- App Identifier -->
 		<ApplicationId>com.companyname.mobileapp</ApplicationId>
